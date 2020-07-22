@@ -1,4 +1,4 @@
-// ## Array Cardio Day 1
+// ## Array Methods 1
 
     // Some data we can work with
 
