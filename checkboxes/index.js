@@ -14,12 +14,12 @@ let inBetween = false;
       if(checkbox === this || checkbox === lastChecked){
         inBetween = !inBetween;
         console.log('starting to checking inbetween!!');
-      }
+      };
 
       if(inBetween){
         checkbox.checked = true;
-      }
-    })
+      };
+    });
   }
   
   lastChecked = this;
